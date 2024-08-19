@@ -1,8 +1,5 @@
 # encoding: utf-8
-"""
-@author:  liaoxingyu
-@contact: liaoxingyu2@jd.com
-"""
+
 
 import h5py
 import os.path as osp
